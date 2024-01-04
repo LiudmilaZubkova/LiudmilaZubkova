@@ -2,6 +2,15 @@
   <h1>Hi there, I'm Liudmila</h1>
   <h3>Junior tester from Prague</h3>
 </div>
+<div id="socials" align="center">
+  <a href="www.linkedin.com/in/liudmila-zubkova">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Lumilli">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 <!--
 **LiudmilaZubkova/LiudmilaZubkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
