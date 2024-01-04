@@ -3,7 +3,7 @@
   <h3>Junior tester from Prague</h3>
 </div>
 <div id="socials" align="center">
-  <a href="www.linkedin.com/in/liudmila-zubkova">
+  <a href="https://www.linkedin.com/in/liudmila-zubkova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/Lumilli">
