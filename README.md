@@ -11,6 +11,12 @@
   </a>
 </div>
 
+---
+
+### About me:
+- :seedling: I'm currently learning automated testing.
+- :earth_americas: I speak English, Russian and Czech.
+- :mailbox: Reach me by: [email](mailto:liudmilazubkova@seznam.cz)
 <!--
 **LiudmilaZubkova/LiudmilaZubkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
