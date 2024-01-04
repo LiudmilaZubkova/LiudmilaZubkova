@@ -13,9 +13,18 @@
 
 ---
 
-### About me:
+### :woman_technologist: About me:
 - :seedling: I'm currently learning automated testing.
 - :page_facing_up: Know about my experiences [CV](https://drive.google.com/file/d/1X2yLyoBflMCVL9k3i8K-07Cp-zvQnTj_/view?usp=drivesdk)
 - :earth_americas: I speak English, Russian and Czech.
 - :mailbox: Reach me by: [email](mailto:liudmilazubkova@seznam.cz)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="60" height="60"/>&nbsp;
+	 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="60" height="60"/>&nbsp;
+</div>
 	
