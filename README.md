@@ -32,6 +32,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="60" height="60"/>&nbsp;
 	<img src="https://camo.githubusercontent.com/8140ad4c0124d888f4bd017f01af44adebb165cd5c564f8a62922f0cb70e5390/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706f73746d616e2d6c6f676f2d303038374341304431352d7365656b6c6f676f2e636f6d2e706e67" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="60" height="60"/>
 
 </div>
 	
