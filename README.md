@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About me:
 - :seedling: I'm currently learning automated testing.
-- :page_facing_up: Know about my experiences [CV](https://drive.google.com/file/d/13gYgPGxqB9ch6CMJbFhEabHVffie2Ghg/view?usp=sharing)
+- :page_facing_up: Know about my experiences [CV](https://drive.google.com/file/d/1-j5D6ao9HGHPjXZNoONa97Ufs7nfiQsc/view?usp=sharing)
 - :earth_americas: I speak English, Russian and Czech.
 - :mailbox: Reach me by: [email](mailto:liudmilazubkova@seznam.cz)
 
